@@ -11,9 +11,9 @@ public class Main {
 
         sunTest.color="pink";
         sunTest.temperature="876544";
-        sunTest.radius="6524422;
+        sunTest.radius="6524422";
 
-                
+
 
 
     }
