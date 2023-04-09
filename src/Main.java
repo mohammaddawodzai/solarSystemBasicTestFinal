@@ -7,5 +7,12 @@ public class Main {
         newSolar.moon="5";
         newSolar.planets="8";
 
+        featureSunTest sunTest=new featureSunTest();
+        
+        sunTest.color="pink";
+        sunTest.temperature="876544";
+        sunTest.radius="6524422;
+
+
     }
 }
